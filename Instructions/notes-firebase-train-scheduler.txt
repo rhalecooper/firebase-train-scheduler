@@ -1,0 +1,10 @@
+
+ a train schedule application
+
+    Firebase to host arrival and departure data.
+    retrieve and manipulate this information with Moment.js (solution in class on Tuesday)
+    provide up-to-date information about various trains
+    their arrival times 
+    how many minutes remain until they arrive at their station
+
+    
