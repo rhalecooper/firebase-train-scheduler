@@ -7,4 +7,41 @@
     their arrival times 
     how many minutes remain until they arrive at their station
 
-    
+Feature #1 Adding trains
+
+    administrators can add trains
+    submit the following:
+        Train Name
+        Destination 
+        First Train Time -- in military time
+        Frequency -- in minutes
+
+ Feature #2
+
+    Displays how long it will be before the next train will arrive; 
+    this should be relative to the current time. 
+
+
+Technical Requirements
+
+    Users from many different machines must be able to view same train times.
+
+Feature #3 Bonus
+
+    updating your "minutes to arrival" and "next train time" text once every minute. 
+    create a second GitHub repo for this version
+
+Feature #4 Bonus 
+
+    Adding `update` and `remove` buttons for each train. 
+    Let the user change a train's Name, Destination and Arrival Time 
+    Then update the minutes until arrival
+
+Feature #5 Bonus
+
+    Make it so that only users who log into the site with 
+    their Google or GitHub accounts can use your site. 
+
+
+
+
